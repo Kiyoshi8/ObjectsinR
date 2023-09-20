@@ -17,7 +17,7 @@ class(mymatrix)
 typeof(mymatrix)
 
 # Array: has 2 (matrix) or more dimensions and one type of data
-myarray <- array(1:3, dim = c(3,3,3))
+myarray <- array(1:4, dim = c(4,4,4))
 length(myarray)
 mode(myarray)
 class(myarray)
