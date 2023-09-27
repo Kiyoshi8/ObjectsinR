@@ -46,7 +46,7 @@ class(mylist2)
 
 
 # removing objects
-x = c(rep(7,8))
+x = c(rep(8,9))
 rm(x)
 
 
